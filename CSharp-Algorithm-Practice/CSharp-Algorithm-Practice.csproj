@@ -6,6 +6,7 @@
         <RootNamespace>CSharp_Algorithm_Practice</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <ProduceReferenceAssembly>false</ProduceReferenceAssembly>
     </PropertyGroup>
 
 </Project>

@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dotnet build:*)",
+      "Bash(C:Users62String.dotnetdotnet build \"C:\\\\Users\\\\62String\\\\CSharp-Algorithm-Practice\\\\CSharp-Algorithm-Practice\")",
+      "Bash(DOTNET_ROOT=\"$HOME/.dotnet\" PATH=\"$HOME/.dotnet:$PATH\" dotnet build:*)",
+      "Bash(cmd //c:*)"
+    ]
+  },
+  "outputStyle": "Learning"
+}
