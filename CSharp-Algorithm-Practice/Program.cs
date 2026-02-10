@@ -1,12 +1,8 @@
 ﻿int [] numbers = {3, 7, 2, 9, 1, 5};
-int saveMax = numbers[0];
+int sum = 0;
 
-for (int i = 0; i <= 5; i ++)
+for (int i = 0; i < numbers.Length; i ++)
 {
-    if (numbers[i] > saveMax)
-    {
-        saveMax = numbers[i];
-        
-    }
+        sum = sum + numbers[i];
 }
-Console.WriteLine(saveMax);
+Console.WriteLine(sum);
